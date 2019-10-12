@@ -8,7 +8,7 @@ from taskflow.utils.Logger import init_logger
 # console, rfile, rtfile
 # LOGGER_NAME = "console"
 # LOGGER_NAME = "rtfile"
-LOG_PATH = '/Users/liuxufeng/projects/collector/TaskFlow/taskflow/run.log'
+LOG_PATH = 'run.log'
 #logger_names = ["console", "rfile"]
 logger_names = ["console", "rtfile"]
 #logger_names = ["console"]
